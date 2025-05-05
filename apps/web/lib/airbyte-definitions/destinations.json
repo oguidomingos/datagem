@@ -1,0 +1,30 @@
+[
+  {
+    "destinationDefinitionId": "25c5221d-dce2-4163-ade9-739ef790f503",
+    "name": "Postgres",
+    "dockerRepository": "airbyte/destination-postgres",
+    "dockerImageTag": "0.5.0",
+    "documentationUrl": "https://docs.airbyte.com/integrations/destinations/postgres"
+  },
+  {
+    "destinationDefinitionId": "22f6c74f-5699-40ff-833c-4a879ea40133",
+    "name": "BigQuery",
+    "dockerRepository": "airbyte/destination-bigquery",
+    "dockerImageTag": "1.2.4",
+    "documentationUrl": "https://docs.airbyte.com/integrations/destinations/bigquery"
+  },
+  {
+    "destinationDefinitionId": "424892c4-daac-4491-b35d-c6688ba547ba",
+    "name": "Snowflake",
+    "dockerRepository": "airbyte/destination-snowflake",
+    "dockerImageTag": "0.5.4",
+    "documentationUrl": "https://docs.airbyte.com/integrations/destinations/snowflake"
+  },
+  {
+    "destinationDefinitionId": "7cf6d65c-9468-4ed8-be64-11abe5896an7",
+    "name": "MySQL",
+    "dockerRepository": "airbyte/destination-mysql",
+    "dockerImageTag": "0.1.24",
+    "documentationUrl": "https://docs.airbyte.com/integrations/destinations/mysql"
+  }
+]

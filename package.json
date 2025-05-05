@@ -20,5 +20,10 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@nivo/bar": "^0.93.0",
+    "@nivo/line": "^0.93.0",
+    "@nivo/pie": "^0.93.0"
+  }
 }
